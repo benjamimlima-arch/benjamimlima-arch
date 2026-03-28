@@ -13,5 +13,5 @@ Atualmente, moro em Manaus e divido meu tempo entre a faculdade, as atividades d
 - **Ferramentas:** Git, GitHub, VS Code
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [Seu Link do LinkedIn Aqui]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/benjamim-l-73358a25a/?skipRedirect=true))
+- **LinkedIn:** [https://www.linkedin.com/in/benjamim-l-73358a25a/?skipRedirect=true]()
 - **Email:** benjamimisaacribeiro@gmail.com
