@@ -18,15 +18,6 @@ Atualmente, moro em Manaus e divido meu tempo entre a faculdade, as atividades d
   <img align="center" alt="Benjamim-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Benjamim-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
-### 📊 Minhas Estatísticas do GitHub:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[seu-usuario-github]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario-github]&layout=compact&langs_count=7&theme=radical" />
-</div>
-
-<br>
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** [https://www.linkedin.com/in/benjamim-l-73358a25a/?skipRedirect=true]()
