@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou o Benjamim 👋
 
-<!--
-**benjamimlima-arch/benjamimlima-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação** na Universidade Federal do Amazonas (UFAM) e bolsista do **Programa de Educação Tutorial (PET)**. Sou apaixonado por resolver problemas e explorar como a tecnologia pode interagir com o mundo real. 
 
-Here are some ideas to get you started:
+Atualmente, moro em Manaus e divido meu tempo entre a faculdade, as atividades do PET e o estudo contínuo de novas ferramentas e algoritmos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 O que estou fazendo agora:
+- Atuando como membro bolsista do **PET Computação**, participando de atividades de ensino, pesquisa e extensão.
+- Estudando e explorando áreas como **Inteligência Artificial**, **Cibersegurança** e **Robótica**.
+
+### 💻 Minhas principais ferramentas e linguagens:
+- **Linguagens:** C, C++ 
+- **Ferramentas:** Git, GitHub, VS Code
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [Seu Link do LinkedIn Aqui]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/benjamim-l-73358a25a/?skipRedirect=true))
+- **Email:** benjamimisaacribeiro@gmail.com
