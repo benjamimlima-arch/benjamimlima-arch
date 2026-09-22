@@ -6,7 +6,7 @@ Atualmente, moro em Manaus e divido meu tempo entre a faculdade, as atividades d
 
 ### 🔭 O que estou fazendo agora:
 - Atuando como membro bolsista do **PET Computação**, participando de atividades de ensino, pesquisa e extensão.
-- Estudando e explorando áreas como **Inteligência Artificial**, **Cibersegurança** e **Robótica**.
+- Estudando e explorando áreas como **Internet das Coisas**, **Sistemas Embarcados** e **Robótica**.
 
 ### 💻 Minhas principais ferramentas e linguagens:
 
