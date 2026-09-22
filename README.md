@@ -18,6 +18,7 @@ Atualmente, moro em Manaus e divido meu tempo entre a faculdade, as atividades d
   <img align="center" alt="Benjamim-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Benjamim-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamimlima-arch)](https://github.com/benjamimlima-arch)
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** [https://www.linkedin.com/in/benjamim-l-73358a25a/?skipRedirect=true]()
