@@ -8,16 +8,20 @@ Atualmente, moro em Manaus e divido meu tempo entre a faculdade, as atividades d
 - Atuando como membro bolsista do **PET Computação**, participando de atividades de ensino, pesquisa e extensão.
 - Estudando e explorando áreas como **Internet das Coisas**, **Sistemas Embarcados** e **Robótica**.
 
-### 💻 Minhas principais ferramentas e linguagens:
+### 💻 Minhas principais ferramentas e linguagens
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Benjamim-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Benjamim-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Benjamim-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Benjamim-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Benjamim-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Benjamim-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Benjamim-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,arduino&theme=dark" alt="Minhas Skills" />
+</div>
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <!-- Cartão de Streak corrigido com as variáveis exatas (Verde Destino) -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=benjamimlima-arch&hide_border=true&background=0D1117&ring=17B85D&fire=17B85D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=17B85D&sideLabels=17B85D&dates=8B949E" alt="Estatísticas de Contribuição" />
+  
+  <!-- Cartão de Linguagens (Verde Destino) -->
+  <img height="180em" src="https://github-readme-stats-one-theta-54.vercel.app/api/top-langs/?username=benjamimlima-arch&layout=compact&hide_border=true&bg_color=0D1117&title_color=17B85D&text_color=FFFFFF" alt="Linguagens Mais Usadas" />
 </div>
 
 ### 📫 Como me encontrar:
