@@ -11,7 +11,7 @@ Atualmente, moro em Manaus e divido meu tempo entre a faculdade, as atividades d
 ### 💻 Minhas principais ferramentas e linguagens
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,arduino&theme=dark" alt="Minhas Skills" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,github,vscode,arduino,linux&theme=dark" alt="Minhas Skills" />
 </div>
 
 ### 📊 Minhas Estatísticas
