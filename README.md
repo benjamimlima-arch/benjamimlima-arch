@@ -25,5 +25,4 @@ Atualmente, moro em Manaus e divido meu tempo entre a faculdade, as atividades d
 </div>
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [https://www.linkedin.com/in/benjamim-l-73358a25a/?skipRedirect=true]()
 - **Email:** benjamimisaacribeiro@gmail.com
